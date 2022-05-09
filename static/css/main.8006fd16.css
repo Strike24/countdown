@@ -1,0 +1,27 @@
+.App {
+    font-size: 35px;
+    margin-top: 16%;
+    text-align: center
+}
+
+.App-title {
+    font-size: 50px
+}
+
+.Clock-days,
+.Clock-hours,
+.Clock-minutes,
+.Clock-seconds {
+    display: inline;
+    margin: 10px
+}
+
+.Deadline {
+    size: 70%;
+    font-size: 25px;
+    margin: 30px auto auto;
+    text-align: center;
+    width: 30%
+}
+
+/*# sourceMappingURL=main.8006fd16.css.map*/
